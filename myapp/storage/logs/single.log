@@ -1,0 +1,13 @@
+2021-12-02 17:19:17 - ERROR - InvalidSecretKey in 0 on line 0
+2021-12-02 17:20:05 - ERROR - InvalidSecretKey in 0 on line 0
+2021-12-02 17:20:36 - ERROR - InvalidSecretKey in 0 on line 0
+2021-12-02 17:20:51 - ERROR - InvalidSecretKey in 0 on line 0
+2021-12-03 19:15:57 - ERROR - NameError in /home/runner/MasoniteBlog/myapp/app/http/controllers/BlogController.py on line 21
+2021-12-03 19:18:32 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:19:46 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:20:14 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:22:47 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:26:51 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:28:52 - ERROR - ContainerError in 0 on line 0
+2021-12-03 19:29:04 - ERROR - ResponseError in 0 on line 0
+2021-12-03 19:30:12 - ERROR - AttributeError in 0 on line 0
